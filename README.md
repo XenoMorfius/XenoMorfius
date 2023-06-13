@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar "Xeno" Marti</h1>
 <h3 align="left">Connect with me:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xenomorfius&show_icons=true&theme=dark&locale=en" alt="xenomorfius" /></p>
+<p><img align="center" src="https://www.codewars.com/users/XenoMorfius/badges/large"/></p>
 <p align="left">
 </p>
 
